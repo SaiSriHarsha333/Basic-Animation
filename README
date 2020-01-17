@@ -1,0 +1,30 @@
+## Requirements
+- OpenGL 3.3
+- GLEW
+- GLFW
+- GLM
+- GLU
+- stb_image
+
+## Program Usage
+execute this from the main folder where Makefile is present.
+To compile and execute calculator
+```
+make run
+```
+
+Use mouse curser to rotate camera.
+
+Use M to change mapping.
+Use T to change texture.
+Use S to speed up the models.
+Use D to slow down the models.
+
+Use 1, 2, 3, 4 keys to select objects in the scene.
+
+After selecting model:
+Use L to on and off the light.
+Use R to start and stop vertical rotation of each model.
+
+## Executables
+Executables will be created in bin folder.
